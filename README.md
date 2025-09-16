@@ -1,6 +1,6 @@
 # College Prediction System
 
-This project is a simple **College Prediction System** built as an example for learning purposes.  
+This project is a simple **College Prediction System**.
 It allows students to **log in and predict their potential colleges** based on entrance exams
 The project is built using **HTML, CSS, PHP, and MySQL**, and runs on an **Apache server** (XAMPP environment).
 
